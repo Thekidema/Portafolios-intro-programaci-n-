@@ -35,4 +35,4 @@ if __name__ == "__main__":
             break
         else:
             print("Opción no válida. Por favor, ingrese un número válido.")
-#PARTIPANTES EMANUEL CV, Erick Portocarrero
+#PARTIPANTES EMANUEL CV, Erick Porto carrero

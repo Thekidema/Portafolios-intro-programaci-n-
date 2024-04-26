@@ -1,0 +1,16 @@
+a=int(input("ingresa el valor a "))
+b=int(input("ingresa el valor b "))
+c=int(input("ingresa el valor c "))
+d=int(input("ingresa el valor d "))
+print("forma ordenada")
+print("a",a)
+print("b",b)
+print("c",c)
+print("d",d)
+print("Forma inversa")
+print("d",d)
+print("c",c)
+print("b",b)
+print("a",a)
+
+

@@ -1,0 +1,6 @@
+n1=int(input("ingresa un valor al cuadrado"))
+n2=int(input("ingresa un valor al cubo"))
+resultado=(n1**2)
+resultado2=(n2**3)
+print("el resultado al cuadrado es",resultado)
+print("el resultado al cubo es",resultado2)
